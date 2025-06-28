@@ -1,0 +1,4 @@
+Install the required Python libraries using:
+
+```bash
+pip install -r requirements.txt
